@@ -1,0 +1,14 @@
+# Ignore virtual environments
+.venv/
+
+# Ignore YOLOv5 folder (if unmodified)
+yolov5/
+
+# Ignore large output or temporary files
+output/
+output2/
+output3/
+
+# Ignore environment files
+*.log
+__pycache__/
